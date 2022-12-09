@@ -23,4 +23,4 @@ The idea for a coalition on the Oak Ridges Moraine flowed out of a meeting in Oc
 Information on our moraine partners and extensive resource library including government documents and various studies completed by STORM and others.
 
 
-https://www.stormcoalition.com/
+[https://www.stormcoalition.com/](https://www.stormcoalition.com/)
