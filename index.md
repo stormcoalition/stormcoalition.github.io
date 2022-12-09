@@ -1,5 +1,5 @@
 ---
-Title: Save The Oak Ridges Moraine Coalition
+title: Save The Oak Ridges Moraine Coalition
 output: html_document
 ---
 
