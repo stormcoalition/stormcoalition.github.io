@@ -47,5 +47,8 @@ The following spatial datasets were access from the Province of Ontario's open d
 1. [Species Monitored Subject Tracking Point](https://geohub.lio.gov.on.ca/documents/lio::species-monitored-subject-tracking-point/explore)
     > Mapping the presence and progress of a monitored species subject on the landscape at a specific date, time and location through tracking technologies (e.g. GPS collar). Information collected used in specific species studies and aids in the identification of the occurrence of a species.
 
+1. [Greenbelt designation](https://geohub.lio.gov.on.ca/datasets/lio::greenbelt-designation/about)
+    > This layer was built to show the component parts of the Greenbelt Area as set out in Ontario Regulation 59/05, as amended.
+
 1. [Provincial Digital Elevation Model (PDEM)](https://geohub.lio.gov.on.ca/maps/mnrf::provincial-digital-elevation-model-pdem/)
     > Represents true ground elevation across the province.
