@@ -39,7 +39,7 @@ The following spatial datasets were access from the Province of Ontario's open d
     > Provides a spatial representation and attribute information for Ontario wetlands.
 
 1. [Southern Ontario Land Resource Information System (SOLRIS) 3.0](https://geohub.lio.gov.on.ca/documents/southern-ontario-land-resource-information-system-solris-3-0/about)
-    > SOLRIS is a primary data layer that provides a comprehensive, standardized, landscape level inventory of natural, rural and urban land
+    > SOLRIS is a primary data layer that provides a comprehensive, standardized, landscape level inventory of natural, rural and urban land use.
 
 1. [Built-Up Area](https://geohub.lio.gov.on.ca/datasets/lio::built-up-area)
     > Identifies built-up areas in the province of Ontario as defined in the Southern Ontario Land Resource Information System (SOLRIS).
@@ -52,3 +52,15 @@ The following spatial datasets were access from the Province of Ontario's open d
 
 1. [Provincial Digital Elevation Model (PDEM)](https://geohub.lio.gov.on.ca/maps/mnrf::provincial-digital-elevation-model-pdem/)
     > Represents true ground elevation across the province.
+
+
+
+## Elections Ontario
+
+1. [Electoral District Shapefiles](https://www.elections.on.ca/en/voting-in-ontario/electoral-district-shapefiles.html)
+    > Electoral ridings intersecting the ORMCP where extracted from here.
+
+
+## Ontario Legislative Assembly
+
+1, [List of current MPPs](https://www.ola.org/en/members/current)
