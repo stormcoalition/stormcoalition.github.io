@@ -65,4 +65,4 @@ The following spatial datasets were access from the Province of Ontario's open d
 
 ## Ontario Legislative Assembly
 
-1, [List of current MPPs](https://www.ola.org/en/members/current)
+1. [List of current MPPs](https://www.ola.org/en/members/current)
