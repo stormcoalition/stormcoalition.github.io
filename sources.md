@@ -56,6 +56,14 @@ The following spatial datasets were access from the Province of Ontario's open d
 1. [Conservation authority administrative area](https://geohub.lio.gov.on.ca/datasets/lio::conservation-authority-administrative-area/about)
     > Ontario Conservation Authority boundaries that intersect the Oak Ridges Moraine.
 
+1. [Municipal Boundary - Lower and Single Tier](https://geohub.lio.gov.on.ca/datasets/64fb702e16204c3e88b528d9759f1174/explore)
+    > Lower Tier Municipal Boundaries that intersect the Oak Ridges Moraine.
+
+1. [Municipal Boundary - Upper Tier and District](https://geohub.lio.gov.on.ca/datasets/11be9127e6ae43c4850793a3a2ee943c/explore)
+    > Upper Tier Municipal Boundaries that intersect the Oak Ridges Moraine.
+
+
+
 
 ## Elections Ontario
 
