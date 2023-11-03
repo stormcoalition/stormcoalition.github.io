@@ -6,15 +6,16 @@ output: html_document
 
 
 
-# Web Mapping
+# Web Mapping/Technologies
 
 1. [R-Leaflet](https://rstudio.github.io/leaflet/)
     > Free, open-source geospatial data analysis tools
 
-1. [shinyapps.io](https://www.shinyapps.io/)
+2. [shinyapps.io](https://www.shinyapps.io/)
     > web-map hosting
 
-
+3. [QGIS](https://www.qgis.org/en/site/)
+    > Free, open-source GIS platform
 
 
 # Spatial data
