@@ -42,8 +42,14 @@ The following spatial datasets were access from the Province of Ontario's open d
 1. [Southern Ontario Land Resource Information System (SOLRIS) 3.0](https://geohub.lio.gov.on.ca/documents/southern-ontario-land-resource-information-system-solris-3-0/about)
     > SOLRIS is a primary data layer that provides a comprehensive, standardized, landscape level inventory of natural, rural and urban land use.
 
+1. [Building to Scale](https://geohub.lio.gov.on.ca/datasets/6a251b78ec14429d894fe51e93eede08/about)
+    > Shows the location of permanent buildings and structures in Ontario.
+
 1. [Built-Up Area](https://geohub.lio.gov.on.ca/datasets/lio::built-up-area)
     > Identifies built-up areas in the province of Ontario as defined in the Southern Ontario Land Resource Information System (SOLRIS).
+
+1. [Ontario Road Network (ORN) Road Net Element](https://geohub.lio.gov.on.ca/datasets/mnrf::ontario-road-network-orn-road-net-element/about)
+    > The Ontario Road Network
 
 1. [Species Monitored Subject Tracking Point](https://geohub.lio.gov.on.ca/documents/lio::species-monitored-subject-tracking-point/explore)
     > Mapping the presence and progress of a monitored species subject on the landscape at a specific date, time and location through tracking technologies (e.g. GPS collar). Information collected used in specific species studies and aids in the identification of the occurrence of a species.
@@ -68,7 +74,6 @@ The following spatial datasets were access from the Province of Ontario's open d
 1. [Aggregate Sites (Authorized)](https://data.ontario.ca/dataset/aggregate-site-authorized)
     > Includes both active and inactive sites.
 
-1. []()
 
 <!-- 1. [Ministry of Transportation Aggregate sites](https://geohub.lio.gov.on.ca/documents/lio::ministry-of-transportation-aggregate-sites/about) -->
 
