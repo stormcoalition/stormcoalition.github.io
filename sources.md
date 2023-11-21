@@ -63,7 +63,6 @@ The following spatial datasets were access from the Province of Ontario's open d
 1. [Provincial Digital Elevation Model (PDEM)](https://geohub.lio.gov.on.ca/maps/mnrf::provincial-digital-elevation-model-pdem/)
     > Represents true ground elevation across the province.
 
-<!-- 1. [Ontario First Nations treaty areas](https://data.ontario.ca/dataset/ontario-first-nations-treaty-areas) -->
 
 1. [Conservation authority administrative area](https://geohub.lio.gov.on.ca/datasets/lio::conservation-authority-administrative-area/about)
     > Ontario Conservation Authority boundaries that intersect the Oak Ridges Moraine.
@@ -80,7 +79,7 @@ The following spatial datasets were access from the Province of Ontario's open d
 
 <!-- 1. [Ministry of Transportation Aggregate sites](https://geohub.lio.gov.on.ca/documents/lio::ministry-of-transportation-aggregate-sites/about) -->
 
-
+<!-- 1. [Ontario First Nations treaty areas](https://data.ontario.ca/dataset/ontario-first-nations-treaty-areas) -->
 
 ## Elections Ontario
 
