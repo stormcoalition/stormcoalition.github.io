@@ -76,6 +76,36 @@ The following spatial datasets were access from the Province of Ontario's open d
 1. [Aggregate Sites (Authorized)](https://data.ontario.ca/dataset/aggregate-site-authorized)
     > Includes both active and inactive sites.
 
+1. [Ontario Water and Weather Monitoring Stations]( https://geohub.lio.gov.on.ca/datasets/lio::ontario-water-and-weather-monitoring-stations/about)
+    > Point locations of water and weather monitoring stations used to assess flood and drought.
+
+1. [Fishing Access Point](https://geohub.lio.gov.on.ca/datasets/lio::fishing-access-point/about) 
+    > Fishing access locations in Ontario.
+
+1. [Petroleum Well]( https://geohub.lio.gov.on.ca/datasets/lio::petroleum-well/about)
+    > Location of wells that have been drilled for oil production, gas or salt resources or for underground storage of hydrocarbons in Ontario.
+
+1. [Tower](https://geohub.lio.gov.on.ca/datasets/mnrf::tower/about)
+    > Location of structures or buildings classified as towers in Ontario.
+
+1. [Open Database of Buildings (ODB)](https://open.canada.ca/data/en/dataset/40e37a0f-1393-4e91-bd00-334dceb26e34)
+    > A collection of open data building footprints made available under the Open Government License Canada.
+
+1. [Indian Reserve](https://geohub.lio.gov.on.ca/datasets/lio::indian-reserve/about)
+    > Identifies Indian Reserve boundaries defined by the Legal Surveys Division of Natural Resources Canada.
+
+1. [2021 Road Network File](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/rnf-frr/index2021-eng.cfm?year=21)
+    > Depicts the location and names of all streets, highways, and other road segments in Canada.
+
+1. [Ontario Trail Network (OTN) Segment](https://geohub.lio.gov.on.ca/datasets/mnrf::ontario-trail-network-otn-segment/about)
+    > Represents the trails in urban, rural and wilderness settings managed by a named organization for transportation, active living or tourism. 
+
+1. [2021 Census – Boundary files: Population Centres]( https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21)
+    > Depicts the boundaries of populated land in Canada. 
+
+1. [Area of natural and scientific interest (ANSI)]( https://geohub.lio.gov.on.ca/datasets/b88037cdb71e4daf9445afa6fb999194/about)
+    > Polygon features that represent land and waters containing important natural landscapes or features in Ontario.  
+
 
 <!-- 1. [Ministry of Transportation Aggregate sites](https://geohub.lio.gov.on.ca/documents/lio::ministry-of-transportation-aggregate-sites/about) -->
 
