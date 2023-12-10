@@ -10,7 +10,29 @@ Save The Oak Ridges Moraine (**STORM**) Coalition has focused on protecting t
 To accompany our website ([https://www.stormcoalition.com/](https://www.stormcoalition.com/)). This repository holds STORM's *"[GitHub Pages](https://pages.github.com/)"* where ideas, knowledge, references, mapping and technology are shared openly.
 
 
-## Pages
+# MAPS
+
+![](assets/img/jurisdiction-ss.png)
+
+The Jurisdiction map shows all the public agencies that share some part of the Oak Ridges Moraine. This includes:
+
+- Municipalities (both upper and lower tiers)
+- Conservation Authorities
+- Provincial Ridings
+
+<br>
+
+![](assets/img/jurisdiction-ss.png)
+
+The Jurisdiction map shows all the public agencies that share some part of the Oak Ridges Moraine. This includes:
+
+- Municipalities (both upper and lower tiers)
+- Conservation Authorities
+- Provincial Ridings
+
+
+
+# MORE INFO
 
 - [Data sources](sources.html)
 
