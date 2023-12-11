@@ -74,11 +74,15 @@ The resources map shows (primarily) active and inactive aggregate operations occ
 1. Measurement tool: determine either lengths or areas by clicking on the interactive maps.
 1. click anywhere to gather coordinates and provide pre-filled emails for Moraine Watchers to submit a actions of concern. 
 
-<iframe src="https://golang.oakridgeswater.ca/pages/baseflow-piechart.html" width="100%" height="400" scrolling="no" allowfullscreen></iframe>
 
-<br><iframe src="https://raw.githubusercontent.com/stormcoalition/shinyapps.io/main/ORMbasemap/ORMbasemap.html" width="100%" height="400" scrolling="no" allowfullscreen></iframe><br>
+<br>
+
+<iframe src="https://raw.githubusercontent.com/stormcoalition/shinyapps.io/main/ORMbasemap/ORMbasemap.html" width="100%" height="400" scrolling="no" allowfullscreen></iframe>
 
 *STORM basemap layer*
+
+<br>
+
 
 # MORE INFO
 
