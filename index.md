@@ -12,11 +12,30 @@ To accompany our website ([https://www.stormcoalition.com/](https://www.stormcoa
 
 # MAPS
 
-## [Jurisdiction](https://stormcoalition.shinyapps.io/jurisdiction/)
+
+### [Moraine Watch map](https://stormcoalition.shinyapps.io/morainewatch/)
+
+[![morainewatch-map](assets/img/morainewatch-ss.png)](https://stormcoalition.shinyapps.io/morainewatch/)
+
+This is the home mapping tool designed to assist the **Moraine Watch** program.  The intention of this map is to provide many interactive resources to concerned citizens who are concerned with land use changes occurring atop the Oak Ridges Moraine.
+
+<br>
+
+
+### [Oak Ridges Moraine Conservation Plan map](https://stormcoalition.shinyapps.io/ormca/)
+
+[![ormca-map](assets/img/ormca-ss.png)](https://stormcoalition.shinyapps.io/ormca/)
+
+The Oak Ridges Moraine Conservation Plan map presents the land use designation as defined by the 2017 plan.
+
+<br>
+
+
+### [Jurisdiction](https://stormcoalition.shinyapps.io/jurisdiction/)
 
 [![jurisdiction-map](assets/img/jurisdiction-ss.png)](https://stormcoalition.shinyapps.io/jurisdiction/)
 
-The Jurisdiction map shows all the public agencies that share some part of the Oak Ridges Moraine. This includes:
+The jurisdiction map shows all the public agencies that share some part of the Oak Ridges Moraine. This includes:
 
 - Municipalities (both upper and lower tiers)
 - Conservation Authorities
@@ -24,13 +43,36 @@ The Jurisdiction map shows all the public agencies that share some part of the O
 
 <br>
 
-![](assets/img/jurisdiction-ss.png)
 
-The Jurisdiction map shows all the public agencies that share some part of the Oak Ridges Moraine. This includes:
+### [Policy](https://stormcoalition.shinyapps.io/policy/)
 
-- Municipalities (both upper and lower tiers)
-- Conservation Authorities
-- Provincial Ridings
+[![policy-map](assets/img/policy-ss.png)](https://stormcoalition.shinyapps.io/policy/)
+
+The policy map shows all the public agencies that share some part of the Oak Ridges Moraine. This includes:
+
+- [Oak Ridges Moraine Conservation Plan (2017)](https://files.ontario.ca/oak-ridges-moraine-conservation-plan-2017.pdf)
+- [Greenbelt Plan (2017)](https://files.ontario.ca/greenbelt-plan-2017-en.pdf)
+- [Lake Simcoe Protection Plan (2009)](https://rescuelakesimcoe.org/wp-content/uploads/2021/02/Lake-Simcoe-Protection-Plan.pdf)
+
+<br>
+
+
+### [Resources](https://stormcoalition.shinyapps.io/resources/)
+
+[![resources-map](assets/img/resources-ss.png)](https://stormcoalition.shinyapps.io/resources/)
+
+The resources map shows (primarily) active and inactive aggregate operations occurring in the Oak Ridges Moraine area.
+
+<br>
+
+
+## Map Features
+
+1. Custom ORM "basemap": provides specialized geographic details needed to determine local features at risk.
+1. Geo-locator: let your devices' GPS identify your location.
+1. Address locator: discover a location by entering an address.
+1. Measurement tool: determine either lengths or areas by clicking on the interactive maps.
+1. click anywhere to gather coordinates and provide pre-filled emails for Moraine Watchers to submit a actions of concern. 
 
 
 
@@ -39,6 +81,7 @@ The Jurisdiction map shows all the public agencies that share some part of the O
 - [Map data sources](sources.html)
 
 
+<br>
 
 ## OAK RIDGES MORAINE
 
