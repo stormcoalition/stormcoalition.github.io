@@ -89,6 +89,14 @@ The resource extraction map shows (primarily) active and inactive aggregate oper
 - [Map data sources](sources.html)
 
 
+
+<br>
+
+## Acknowledgements
+
+![The Greenbelt Foundation](./assets/img/greenbelt_Logo_1C_OL.svg)
+
+
 <br>
 
 ## OAK RIDGES MORAINE
