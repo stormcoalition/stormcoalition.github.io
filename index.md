@@ -90,11 +90,11 @@ The resource extraction map shows (primarily) active and inactive aggregate oper
 
 
 
-<br>
+<!-- <br>
 
 ## Acknowledgements
 
-![The Greenbelt Foundation](./assets/img/greenbelt_Logo_1C_OL.svg)
+![The Greenbelt Foundation](./assets/img/greenbelt_Logo_1C_OL.svg) -->
 
 
 <br>
