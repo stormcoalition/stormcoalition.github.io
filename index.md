@@ -12,8 +12,6 @@ To accompany our website ([www.stormcoalition.com](https://www.stormcoalition.co
 
 # MAPS
 
-> NOTE: at the moment the maps work (in their full capacity) using [Firefox](https://www.mozilla.org/en-CA/firefox/new/); issues have been raise when viewing the maps using Google Chrome and Microsoft Edge. We are working to remedy this, sorry for any inconvienence.
-
 *Map Sources are [**provided below**](#more-info)*
 
 ### [Moraine Watch map](https://stormcoalition.shinyapps.io/morainewatch/)
@@ -89,7 +87,7 @@ The resource extraction map shows (primarily) active and inactive aggregate oper
 
 # MORE INFO
 
-- [Map data sources](sources.html)
+- [**Map data sources**](sources.html)
 
 
 
