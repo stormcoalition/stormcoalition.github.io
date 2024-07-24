@@ -60,12 +60,14 @@ The following spatial datasets were access from the Province of Ontario's open d
 - [Greenbelt designation](https://geohub.lio.gov.on.ca/datasets/lio::greenbelt-designation/about)
     > This layer was built to show the component parts of the Greenbelt Area as set out in Ontario Regulation 59/05, as amended.
 
+- [Greenbelt specialty crop areas](https://geohub.lio.gov.on.ca/datasets/lio::greenbelt-specialty-crop-areas/about)
+    > This layer identifies the location of specialty crop areas in the Greenbelt Plan, namely the Niagara Peninsula Tender Fruit and Grape Lands and the Holland Marsh.
+
 - [Lake Simcoe Protection Plan (2009)](https://geohub.lio.gov.on.ca/datasets/lio::lake-simcoe-protection-act-watershed-boundary/about)
     > The Lake Simcoe Protection Act watershed boundary
 
 - [Provincial Digital Elevation Model (PDEM)](https://geohub.lio.gov.on.ca/maps/mnrf::provincial-digital-elevation-model-pdem/)
     > Represents true ground elevation across the province.
-
 
 - [Conservation authority administrative area](https://geohub.lio.gov.on.ca/datasets/lio::conservation-authority-administrative-area/about)
     > Ontario Conservation Authority boundaries that intersect the Oak Ridges Moraine.
