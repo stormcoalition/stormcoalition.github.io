@@ -63,6 +63,9 @@ The following spatial datasets were access from the Province of Ontario's open d
 - [Greenbelt specialty crop areas](https://geohub.lio.gov.on.ca/datasets/lio::greenbelt-specialty-crop-areas/about)
     > This layer identifies the location of specialty crop areas in the Greenbelt Plan, namely the Niagara Peninsula Tender Fruit and Grape Lands and the Holland Marsh.
 
+- [Built Boundary for the Growth Plan for the Greater Golden Horseshoe, 2006](https://geohub.lio.gov.on.ca/documents/25ba6fb6b7894be0b684dd28c07a3bf9/about)
+    > This layer was built to show the built up areas of the [GGH growth plan](https://files.ontario.ca/mmah-place-to-grow-office-consolidation-en-2020-08-28.pdf).
+
 - [Lake Simcoe Protection Plan (2009)](https://geohub.lio.gov.on.ca/datasets/lio::lake-simcoe-protection-act-watershed-boundary/about)
     > The Lake Simcoe Protection Act watershed boundary
 
