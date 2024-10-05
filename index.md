@@ -63,11 +63,11 @@ The policy map shows all the public agencies that share some part of the Oak Rid
 <br>
 
 
-### [Resource Extraction](https://stormcoalition.shinyapps.io/resources/)
+### [Natural Resources](https://stormcoalition.shinyapps.io/resources/)
 
 [![resources-map](assets/img/resources-ss.png)](https://stormcoalition.shinyapps.io/resources/)
 
-The resource extraction map shows (primarily) active and inactive aggregate operations occurring in the Oak Ridges Moraine area.
+The natural resource map shows a multitude of resource extraction and agricultural activities on the Oak Ridges Moraine such as active and inactive aggregate operations occurring in the Oak Ridges Moraine area.
 
 <br>
 
