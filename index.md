@@ -57,6 +57,7 @@ The jurisdiction map shows all the public agencies that share some part of the O
 The policy map shows all the public agencies that share some part of the Oak Ridges Moraine. This includes:
 
 - [Oak Ridges Moraine Conservation Plan (2017)](https://files.ontario.ca/oak-ridges-moraine-conservation-plan-2017.pdf)
+- [Niagara Escarpment Plan (2017)](https://escarpment.org/wp-content/uploads/2021/05/NEP-Consolidation-April-5-2021-FINAL.pdf)
 - [Greenbelt Plan (2017)](https://files.ontario.ca/greenbelt-plan-2017-en.pdf)
 - [Lake Simcoe Protection Plan (2009)](https://rescuelakesimcoe.org/wp-content/uploads/2021/02/Lake-Simcoe-Protection-Plan.pdf)
 
