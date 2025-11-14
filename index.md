@@ -3,7 +3,7 @@ title: Save The Oak Ridges Moraine Coalition
 output: html_document
 ---
 
-# SAVE THE OAK RIDGES MORAINE
+# Save The Oak Ridges Moraine Coalition
 
 The Save The Oak Ridges Moraine (**STORM**) Coalition has focused on protecting the ecological integrity of the Oak Ridges Moraine since 1989.
 
@@ -11,7 +11,7 @@ To accompany our website ([stormcoalition.com](https://www.stormcoalition.com/))
 
 
 
-# MAPS
+# Maps
 
 STORM has invested much time in creating interactive online mapping tools to help inform and educate the public on the many functions the Oak Ridges Moraine has to offer and the legislative protections in place that are meant to protect this land. These maps also serve as a means to coordinate insights and knowledge brought to STORM through the engagement of our members and concerned citizens abroad. These maps are organic in that they are intended to update continuously--thus enabling a platform for communication and spreading awareness focussed on the moraine.
 
@@ -93,19 +93,25 @@ The natural resource map shows a multitude of resource extraction and agricultur
 <br> -->
 
 
-# MORE INFO
+# More info
 
-## OAK RIDGES MORAINE
+## The Oak Ridges Moraine
 
 The Oak Ridges Moraine is one of Ontario's largest moraines, it extends 160 kilometres from the Niagara Escarpment in the west to the Trent River system in the east, and is on average 13 kilometres wide. 
 
-## HISTORY
+### Analysis
+
+- [NDVI](info/NDVI.md)
+
+## STORM history
 
 The idea for a coalition on the Oak Ridges Moraine flowed out of a meeting in October 1989 of community-based groups and individuals concerned about development pressures in different areas of the Oak Ridges Moraine.
 
-## PARTNER ORGANIZATIONS AND RESOURCE MATERIAL
 
-Information on our moraine partners and extensive resource library including government documents and various studies completed by STORM and others.
+
+<!-- ## Partner organizations and Resource material
+
+Information on our moraine partners and extensive resource library including government documents and various studies completed by STORM and others. -->
 
 <!-- <br>
 
@@ -116,17 +122,10 @@ Information on our moraine partners and extensive resource library including go
 
 <br>
 
-## Data sources
+# Data sources
 
 All geospatial data hosted on STORM's maps come from open federal, provincial and municipal data repositories. All data are freely available and are referenced in detail on our [**Map data sources**](sources.html) page.
 
 STORM strives to maintain an open and transparent access to the data we post online. Any data sets either produced by us or derived from external public data sets are hosted on GitHub [**here**](https://github.com/stormcoalition/geojson). These data are free to use under the Creative Commons [CC-BY-SA-4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
-
-
-
-
-
-
-
 
 
