@@ -7,7 +7,7 @@ output: html_document
 
 The Save The Oak Ridges Moraine (**STORM**) Coalition has focused on protecting the ecological integrity of the Oak Ridges Moraine since 1989.
 
-To accompany our website ([stormcoalition.com](https://www.stormcoalition.com/)). This repository holds STORM's *"[GitHub Pages](https://pages.github.com/)"* where ideas, knowledge, references, mapping and technology are shared openly.
+To accompany our website ([stormcoalition.com](https://www.stormcoalition.com/)). Our [Github Repository](https://github.com/stormcoalition) holds STORM's *"[GitHub Pages](https://pages.github.com/)"* where ideas, knowledge, references, mapping and technology are shared openly.
 
 
 
@@ -17,7 +17,7 @@ STORM has invested much time in creating interactive online mapping tools to hel
 
 We encourage any and all feedback, whether it's training on how to use the tools and/or features one wished to have added. STORM's mission here is to re-invigorate community engagement toward the protection of the Oak Ridges Moraine.
 
-*Data sources used for the maps are [**provided below**](#data-sources)*
+> **Data sources** used for the maps are [provided below](#data-sources)*
 
 ### [Moraine Watch map](https://stormcoalition.shinyapps.io/morainewatch/)
 
