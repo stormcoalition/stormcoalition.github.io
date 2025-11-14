@@ -1,7 +1,3 @@
----
-title: Save The Oak Ridges Moraine Coalition
-output: html_document
----
 
 # Normalized Difference Vegetation Index
 

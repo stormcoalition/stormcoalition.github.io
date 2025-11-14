@@ -124,8 +124,8 @@ Information on our moraine partners and extensive resource library including go
 
 # Data sources
 
-All geospatial data hosted on STORM's maps come from open federal, provincial and municipal data repositories. All data are freely available and are referenced in detail on our [**Map data sources**](sources.html) page.
+All geospatial data hosted on STORM's maps come from open federal, provincial and municipal data repositories. All data are freely available and are referenced in detail on our [Map data sources](sources.html) page.
 
-STORM strives to maintain an open and transparent access to the data we post online. Any data sets either produced by us or derived from external public data sets are hosted on GitHub [**here**](https://github.com/stormcoalition/geojson). These data are free to use under the Creative Commons [CC-BY-SA-4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+STORM strives to maintain an open and transparent access to the data we post online. Any data sets either produced by us or derived from external public data sets are hosted on GitHub [here](https://github.com/stormcoalition/geojson). These data are free to use under the Creative Commons [CC-BY-SA-4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 
