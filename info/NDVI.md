@@ -11,3 +11,6 @@ $$
 
 - $\text{NIR}$: near infrared
 - $\text{Red}$: red spectrum
+
+
+$x=y+z$
