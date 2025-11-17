@@ -100,9 +100,12 @@ The natural resource map shows a multitude of resource extraction and agricultur
 
 The Oak Ridges Moraine is one of Ontario's largest moraines, it extends 160 kilometres from the Niagara Escarpment in the west to the Trent River system in the east, and is on average 13 kilometres wide. 
 
-### Analysis
+### Longitudinal Analysis
 
-- [NDVI](info/NDVI.md)
+> A longitudinal analysis is the study of how geographic features or environmental conditions change over time by comparing spatial data from multiple points in the past.
+
+- [**Change in canopy coverage**](info/NDVI.md)
+- [**Change in terrain**](info/dem.md)
 
 ## STORM history
 
